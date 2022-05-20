@@ -1,5 +1,9 @@
-### Hi there 👋
 
+# oii, eu sou o Jhonatan!
+mas conhecido como Jhow.
+gosto de jogar COD, ouvir música, sair.
+estou aprendendo HTML e CSS com o professor Felipe,
+gostei muito dos módulos planilhas e o atual Web Design.Moro com a minha família, quero fazer alguma faculdade ou curso técnico relacionado a mecânica.
 <!--
 **JhonatanSteffler/JhonatanSteffler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
